@@ -164,11 +164,6 @@ bind '"\e[B": history-search-forward'
 bind '"\eOB": history-search-forward'
 
 # Aliases
-
-alias automata="/home/kali/Tools/automata/automata.sh"
-alias obsidian="/home/kali/Downloads/Obsidian-0.12.10.AppImage --no-sandbox &"
-alias dropbox="/home/kali/Documents/mountDropbox.sh"
-
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'

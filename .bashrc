@@ -167,3 +167,8 @@ bind '"\eOB": history-search-forward'
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
+
+alias preview="fzf --preview 'bat --style=numbers --color=always --line-range :500 {}'"
+
+
+
